@@ -8,8 +8,8 @@ venv/
 ENV/
 .venv
 *.pth
+!models/*.pth
 *.pt
-models/
 data/
 *.log
 .DS_Store
